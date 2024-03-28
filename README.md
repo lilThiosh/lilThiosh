@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Software Development
 - 📫 How to reach me ...thiongoian6148@gmail.com
 - 😄 Pronouns: ...Him
-- ⚡ Fun fact: ...Begginer
+- ⚡ Currently studying at ...Moringa School
 
 <!---
 lilThiosh/lilThiosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
