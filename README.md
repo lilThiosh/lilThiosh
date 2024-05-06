@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilThiosh
+- 👋 Hi, my name is Ian
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...Software Engineering
 - 💞️ I’m looking to collaborate on ...Software Development
